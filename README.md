@@ -1,3 +1,41 @@
+# AIJS Mojifier Workshop
+
+Workshop ministred by Asim Hussain.
+
+Tutorial step by step: https://docs.microsoft.com/en-us/learn/modules/replace-faces-with-emojis-matching-emotion/1-introduction
+
+Slack group: https://aijavascript.slack.com/messages/CH1BXG9K6/team/UABPBEF5F/
+
+Git-hub: https://github.com/MicrosoftDocs/mslearn-the-mojifier/
+
+# To run
+
+```
+npm run build
+func host start
+```
+
+# To configure azure functions
+
+1) Access:
+https://azure.microsoft.com/pt-br/services/cognitive-services/face/
+
+2) Experimente Grátis (7 dias de avaliação); It's a trial key valid for 7 days.
+
+3) Generate a pair key and use in `local.settings.json`
+
+# to use cmd func
+
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local#linux
+
+# To setup ngrok
+
+https://dashboard.ngrok.com/
+
+./ngrok authtoken YOUR_TOKEN
+./ngrok 
+./ngrok http 7071
+
 
 # Contributing
 
