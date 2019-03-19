@@ -32,10 +32,11 @@ https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local#linux
 
 https://dashboard.ngrok.com/
 
+```
 ./ngrok authtoken YOUR_TOKEN
 ./ngrok 
 ./ngrok http 7071
-
+```
 
 # Contributing
 
